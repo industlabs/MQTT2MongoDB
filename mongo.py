@@ -10,7 +10,7 @@ import os
 
 
 MONGO_URI = "mongodb://54.187.212.242:27017"  # mongodb://user:pass@ip:port || mongodb://ip:port
-MONGO_DB = "domotics"
+MONGO_DB = "admin"
 MONGO_COLLECTION = "mqtt"
 MONGO_TIMEOUT = 1  # Time in seconds
 MONGO_DATETIME_FORMAT = "%d/%m/%Y %H:%M:%S"
